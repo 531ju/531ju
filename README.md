@@ -32,5 +32,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=531ju&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@kwm369)
 </div>
